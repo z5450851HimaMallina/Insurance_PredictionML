@@ -1,9 +1,5 @@
 # Insurance_PredictionML
-
 Machine Learning - Medical Insurance Claims Prediction
-
-## Business Analytics Project: Predicting Business Outcomes
-
 <img width="849" alt="image" src="https://github.com/user-attachments/assets/9eab728a-de23-4115-8864-e2815d54e639" />
 
 
