@@ -4,6 +4,9 @@ Machine Learning - Medical Insurance Claims Prediction
 
 ## Business Analytics Project: Predicting Business Outcomes
 
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/9eab728a-de23-4115-8864-e2815d54e639" />
+
+
 ## Overview
 This project focuses on leveraging machine learning techniques to enhance business decision-making. By analyzing real-world datasets, the goal is to develop predictive models that provide actionable insights for business operations. The primary objective is to improve model performance, business interpretability, and generalizability to future data.
 
@@ -49,6 +52,9 @@ To improve model performance, applied:
 - **Regularization techniques** (L1/L2) for regression models.
 - **Cross-validation** to ensure robustness and generalizability.
 
+  <img width="1260" alt="image" src="https://github.com/user-attachments/assets/57ec9f93-df94-4362-950f-64569b3b40b0" />
+
+
 ### 4.Provided Business Insights & Impact, Visuals
 -Provided key observations, findings in every step, refer to the code file directly to understand further
 -Look into the slide deck, download the raw file directly for easy access!
@@ -58,7 +64,10 @@ To improve model performance, applied:
 - **Scikit-learn**: Machine learning models and hyperparameter tuning.
 - **TensorFlow/Keras**: Neural network implementation.
 - **Pandas & NumPy**: Data manipulation.
-- **Matplotlib & Seaborn**: Data visualization and many more. 
+- **Matplotlib & Seaborn**: Data visualization and many more.
+
+  <img width="1280" alt="image" src="https://github.com/user-attachments/assets/55535613-9e5d-4637-9267-8241d8b4d175" />
+
 
 More information available in the code file and attached PPT. 
 
